@@ -1,0 +1,31 @@
+# Gradle build
+.gradle/
+build/
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse/IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+*.class
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Spring Boot
+*.jar
+*.war
+
+# Others
+out/
+tmp/
+*.swp
+
