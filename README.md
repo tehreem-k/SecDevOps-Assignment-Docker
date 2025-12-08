@@ -6,7 +6,7 @@
 This repository contains a minimal Spring Boot web application that has been Dockerized and can run on any Linux host, including an AWS EC2 instance.
 
 The application responds to `/` with a simple message:  
-`Docker Spring App is running!`
+`Keep it small and easy to run.`
 
 ---
 
