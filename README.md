@@ -39,7 +39,7 @@ sudo systemctl status docker
  **1. Clone repository**
 ```bash
 git clone https://github.com/tehreem-k/SecDevOps-Assignment-Docker.git
-cd spring-docker-app
+cd SecDevOps-Assignment-Docker
 ```
 **2. Build Docker image**
 ```bash
