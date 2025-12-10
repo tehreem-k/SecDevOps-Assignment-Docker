@@ -11,7 +11,7 @@ This document contains proof of all the important screenshots of the application
 
 ---
 
-## **2. Clone Repository **
+## **2. Clone Repository**
 
 
 ![](6.PNG)
@@ -19,22 +19,21 @@ This document contains proof of all the important screenshots of the application
 ---
 
 
-## **3. Setup Docker **
+## **3. Setup Docker**
 
-
-![](7.PNG)
-
----
-
-
-## **4. Verify Docker is running **
-
-
-![]9.PNG)
+![](8.PNG)
 
 ---
 
-## **5. Build Docker Image **
+
+## **4. Verify Docker is running**
+
+
+![](9.PNG)
+
+---
+
+## **5. Build Docker Image**
 
 
 ![](10.PNG)
@@ -42,7 +41,7 @@ This document contains proof of all the important screenshots of the application
 ---
 
 
-## **6. Run contaoner, verify and access locally **
+## **6. Run container, verify and access locally**
 
 
 ![](12.PNG)
@@ -50,7 +49,7 @@ This document contains proof of all the important screenshots of the application
 ---
 
 
-## **7. Access externally **
+## **7. Access externally**
 
 
 ![](13.PNG)
@@ -58,7 +57,7 @@ This document contains proof of all the important screenshots of the application
 ---
 
 
-## **8. Verify logs **
+## **8. Verify logs**
 
 
 ![](15.PNG)
