@@ -43,11 +43,11 @@ cd SecDevOps-Assignment-Docker
 ```
 **2. Build Docker image**
 ```bash
-docker build -t spring-docker-app:latest .
+sudo docker build -t spring-docker-app:latest .
 ```
 **3. Run container**
 ```bash
-docker run -d -p 5000:5000 --name spring-app spring-docker-app:latest
+sudo docker run -d -p 5000:5000 --name spring-app spring-docker-app:latest
 ```
 
 **4. Verify application locally**
@@ -70,6 +70,6 @@ Access via browser using the EC2 public IP:
 **6. Restart Policy**
 
 ```bash
-docker run -d -p 5000:5000 --name spring-app --restart unless-stopped spring-docker-app:latest
+sudo docker run -d -p 5000:5000 --name spring-app --restart unless-stopped spring-docker-app:latest
 
 ```
