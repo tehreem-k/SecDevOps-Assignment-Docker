@@ -69,6 +69,8 @@ Access via browser using the EC2 public IP:
 
 **6. Restart Policy**
 
+If aim is to restart the contianer then skip step 3 and run below command 
+
 ```bash
 sudo docker run -d -p 5000:5000 --name spring-app --restart unless-stopped spring-docker-app:latest
 
