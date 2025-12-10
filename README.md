@@ -1,6 +1,7 @@
 
 
 
+
 # Spring Boot Dockerized Application
 
 This repository contains a minimal Spring Boot web application that has been Dockerized and can run on any Linux host, including an AWS EC2 instance.
@@ -66,3 +67,9 @@ Access via browser using the EC2 public IP:
 
     http://< EC2 public IP>:5000/
 
+**6. Restart Policy**
+
+```bash
+docker run -d -p 5000:5000 --name spring-app --restart unless-stopped spring-docker-app:latest
+
+```
