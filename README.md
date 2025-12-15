@@ -9,6 +9,8 @@ This repository contains a minimal Spring Boot web application that has been Doc
 The application responds to `/` with a simple message:  
 `Keep it small and easy to run.`
 
+Note: Screenshot.md in screenshot folder contains pictorial guide.
+
 ---
 
 ## Prerequisites
