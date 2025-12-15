@@ -67,7 +67,6 @@ This document contains proof of all the important screenshots of the application
 ## **9. Build image for docker hub and push**
 
 
-![](16.PNG)
 ![](17.PNG)
 ![](18.PNG)
 
