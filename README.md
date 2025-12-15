@@ -82,9 +82,9 @@ Create a repository on Docker Hub
 Create Image 
 
 ```bash
-sudo docker build -t <docker hub username>/<dockerhube>:<tag name> .
+sudo docker build -t <docker hub username>/<docker hub repo>:<tag name> .
 # login docker hub and provide credentials
 sudo docker login
-sudo docker push <docker hub username>/<dockerhub>
+sudo docker push <docker hub username>/<docker hub repo>
 
 ```
