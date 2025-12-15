@@ -75,3 +75,16 @@ If aim is to restart the contianer then skip step 3 and run below command
 sudo docker run -d -p 5000:5000 --name spring-app --restart unless-stopped spring-docker-app:latest
 
 ```
+**7. Create an Image for Docker Hub**
+
+Create a repository on Docker Hub
+
+Create Image 
+
+```bash
+sudo docker build -t <docker hub username>/<dockerhube>:<tag name> .
+# login docker hub and provide credentials
+sudo docker login
+sudo docker push <docker hub username>/<dockerhub>
+
+```
