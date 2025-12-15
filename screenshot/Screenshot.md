@@ -68,7 +68,13 @@ This document contains proof of all the important screenshots of the application
 
 
 ![](17.PNG)
-![](18.PNG)
+
+
+---
+## **10. Verify Image is available on docker hub**
+
+
+![](18.png)
 
 
 ---
